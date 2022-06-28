@@ -1,5 +1,5 @@
 # Baby_name_checker
-an NLP model to predict the gender of name. Great for parents to choose a gender neutral or distinctive Male/Female name for their newborn.
+An NLP model to predict the gender of name. Great for parents to choose a gender neutral or distinctive Male/Female name for their newborn.
 
 
 This project contains 2 modules.
